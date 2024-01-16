@@ -131,9 +131,10 @@ nav, after {
 
 /* seção de ultimos empregos */
 
-#lastjob-container {
+#lastjobs-container {
     text-align: center;
-    padding: 100px 0;
+padding: 10rem 0;
+
 }
 
 .wrapper {
